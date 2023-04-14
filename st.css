@@ -1,0 +1,68 @@
+.btn{
+    border-radius: 90px;
+
+}
+.searching{
+    width: 10%;
+    height: 10%;
+}
+.navbar{
+    align-items: center;
+    text-align:  end;
+}
+.navbar a:hover {
+text-decoration:underline brown;
+}
+.card{
+    align-items: center;
+    border-width: 0;
+}
+.buttons{
+    text-align: center;
+    
+}
+.insta{
+width: 34px;
+height: 31px;
+border-radius: 10px;
+border: none;
+background-size: contain;    
+background-image: url("https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png")
+}
+.fb{
+    width: 34px;
+    height: 33px;
+    border-radius: 10px;
+     border: none;
+    background-size: contain;    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUgYD1O8Dk5JhG0lvpJmTpnC8U3sh1dbTFH-bDzW5g6GIKQXB&s")
+
+}
+.twitter{
+    width: 34px;
+    height: 31px;
+    border-radius: 10px;
+     border: none;
+    background-size: contain;    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0IJVDdxX2gc2vMkTw1xWDQyzkjhTQqX28SlyiSE3q_8H0dLo&s")
+}
+.google{
+width: 34px;
+height: 31px;
+border-radius: 10px;
+border: none;
+background-size:cover;    
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTePqXLdA1vABZZ8d02Vob79fNgvlTw1vMSPZuwBMrMMN8IdpLs&s")
+}
+.footerlinks{
+    text-decoration: none;
+    color: darkgrey;
+}    
+.foottext{
+    font-size:12px;
+    margin-bottom: -1rem;
+}
+.cardtitle{
+    font-size: 14px;
+    color:yellow;
+}
